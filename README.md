@@ -8,6 +8,6 @@ Little about me:
 * :thinking: I’m interested in videogames and modding for Linux.
 * :banana: Discord: PowerBall253#0199
 
-[![PowerBall253's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerBall253)](https://github.com/anuraghazra/github-readme-stats)
+[![PowerBall253's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerBall253&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerBall253&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
