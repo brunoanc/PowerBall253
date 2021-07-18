@@ -4,8 +4,8 @@ Welcome, Linux enthusiasts!
 Little about me:
 
 * :telescope: I’m currently working on the DOOM Eternal Modding Linux project, aiming to bring native modding to everyone on Linux.
-* :video_game: I’m currently learning a lot of languages like C, C++, C#, Rust and Go.
-* :thinking: I’m interested in videogames and modding for Linux.
+* :thinking: I’m currently learning a lot of languages like C, C++, C#, Rust and Go.
+* :video_game: I’m interested in videogames and modding for Linux.
 * :banana: Discord: PowerBall253#0199
 
 
