@@ -10,6 +10,6 @@ Little about me:
 
 
 
-![PowerBall253's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerBall253&show_icons=true&theme=radical)
+![PowerBall253's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerBall253&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerBall253&langs_count=10&layout=compact&theme=radical)
