@@ -7,8 +7,7 @@ Little about me:
 * :thinking: I’m currently learning a lot of languages like C, C++, C#, Rust and Go.
 * :video_game: I’m interested in videogames and modding for Linux.
 * :banana: Discord: PowerBall253#0199
-
-
+* ☕ Buy me a coffee: https://www.buymeacoffee.com/powerball253
 
 ![PowerBall253's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerBall253&show_icons=true&include_all_commits=true&theme=radical)
 
