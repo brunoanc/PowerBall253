@@ -15,7 +15,7 @@
 
 Soy un estudiante mexicano aprendiendo sobre programación.
 
-* 🔭 Estudio el bachillerato y aprendo a programar utilizando diversos tipos de tecnologías y lenguajes.
+* 🔭 Estudio Ingeniería en TI y aprendo a programar utilizando diversos tipos de tecnologías y lenguajes.
 * 🌱 Me apasiona el software libre y de código abierto y me gusta usar Linux.
 * ⚡ En mi tiempo libre me gusta experimentar con tecnología y crear mods para videojuegos.
 * 📫 Comunícate conmigo: &nbsp; <a href="mailto:brunoanconasala@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="22"></a>
